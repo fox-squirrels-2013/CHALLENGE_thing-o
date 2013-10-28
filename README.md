@@ -18,7 +18,7 @@ Welcome to the thing-o playground.  The purpose of this challenge is to give you
 ### Release 1
 * Choose your thing-o (something you love like bicycles!)
 * Create a repo on the github organization for our cohort titled "Thing-O:Your Name".  All code for this challenge will live there. 
-* Add a readme with notes on your steps in each route.  
+* Add a readme with notes on your steps in each release.
 * Push a sinatra app to heroku that allows the user to visit your index page and see a few paragraphs about your thing-o.
 
 
