@@ -25,7 +25,8 @@ Work through each release completely before moving on.  When you finish a releas
 
 
 ## Release 2
-* [CRUD](http://en.wikipedia.org/wiki/Create,_read,_update_and_delete) it up using [Restful Routes](http://guides.rubyonrails.org/routing.html) - see the first table, [Active Record](http://guides.rubyonrails.org/active_record_basics.html) and a [postgres](http://www.postgresql.org/) database.  Create your CRUD in 4 steps.  * Step 1: A user can Create an instance of your thing-o and save it to the database.  
+* [CRUD](http://en.wikipedia.org/wiki/Create,_read,_update_and_delete) it up using [Restful Routes](http://guides.rubyonrails.org/routing.html) - see the first table, [Active Record](http://guides.rubyonrails.org/active_record_basics.html) and a [postgres](http://www.postgresql.org/) database.  Create your CRUD in 4 steps.  
+  * Step 1: A user can Create an instance of your thing-o and save it to the database.  
     * Test your models in IRB.  
     * Review your data in psql.
   * Step 2: A user can see all the instances of your thing-o.
